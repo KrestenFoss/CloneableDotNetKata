@@ -1,1 +1,1 @@
-"# CloneableDotNetKata" 
+# CloneableDotNetKata
